@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<h1>My another dashborad page</h1>
 </body>
 </html>
